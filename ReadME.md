@@ -1,2 +1,1 @@
-My first change
-My second remote change
+My second change
